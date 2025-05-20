@@ -1,6 +1,6 @@
 # 🧠 Jantar das Cientistas da Computação
 
-Este projeto é uma adaptação gráfica do clássico problema do **Jantar dos Filósofos**, utilizando **Python**, **Tkinter** e **Pillow**, com um toque especial: cientistas da computação representadas por fotos reais.
+Este projeto é uma adaptação gráfica do clássico problema do **Jantar dos Filósofos**, utilizando **Python**, **Tkinter** e **Pillow**, com um toque especial: cientistas da computação representadas por fotos (no projeto original havia fotos reais das cientistas, porém para respeitar sua privacidade resolvi deixar fotos padrão).
 
 ## 🎯 Objetivo
 
