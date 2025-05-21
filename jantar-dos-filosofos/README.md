@@ -23,5 +23,3 @@ A interface gráfica apresenta:
 - Threading (concorrência)
 - Pillow (para manipulação de imagens)
 
-## 📁 Estrutura de Arquivos
-
